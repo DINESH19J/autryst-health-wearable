@@ -289,15 +289,5 @@ This is a low-cost prototype. Expected performance against clinical devices:
  └── data/            (sample CSV logs and validation results)
 ```
 
-## Use Cases (SIH / Project Pitch)
-- **Rural and remote healthcare:** low-cost multi-vital monitoring with offline logging and alerts
-- **Industrial and mining worker safety:** fall, heat stress, fatigue and SpO2 monitoring
-- **Elderly care:** fall detection, sleep quality and early-illness trend alerts
-- **Sports and defence fitness:** fatigue, HR recovery, load/efficiency and altitude acclimatisation tracking
-- **Differentiators:** ECG-vs-PPG cross-validation, motion-aware stress, rule-based explainable risk index
 
-## License
-Add your preferred license (for example MIT) before publishing.
 
-## Author
-Your name / team name, college or organisation
